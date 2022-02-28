@@ -1,6 +1,6 @@
 using System;
 
-namespace WebAPI
+namespace CancellationTokenExample
 {
     public class WeatherForecast
     {

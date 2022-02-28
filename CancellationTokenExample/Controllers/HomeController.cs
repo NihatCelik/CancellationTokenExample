@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace WebAPI.Controllers
+namespace CancellationTokenExample.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
