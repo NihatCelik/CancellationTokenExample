@@ -8,7 +8,7 @@ namespace CancellationTokenExample.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class HomeController : ControllerBase
+    public class CancellationTokensController : ControllerBase
     {
         List<string> days = new List<string> { "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" };
 
